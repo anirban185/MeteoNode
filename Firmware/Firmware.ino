@@ -15,8 +15,8 @@
 
 // Node coordinates
 
-#define LATITUDE         "26.9124"
-#define LONGITUDE        "94.7362"
+#define LATITUDE         "Node's Latitude"
+#define LONGITUDE        "Node's Longitude"
 
 // Deep sleep intervals
 
