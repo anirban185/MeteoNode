@@ -17,7 +17,7 @@ Install these through PlatformIO or the Arduino Library Manager. If you're using
 
 ## Setup
 
-At the top of `meteonode.ino` there are defines for WiFi credentials and the node's coordinates. These need to be set before flashing.
+At the top of `Firmware.ino` there are defines for WiFi credentials and the node's coordinates. These need to be set before flashing.
 
 ```cpp
 #define WIFI_SSID        "YOUR_SSID"
