@@ -69,7 +69,7 @@ Everything is from ElectronicsComp.
 
 # Block diagram
 
-![block diagram](block-diagram.svg)
+![block diagram](block_diagram.svg)
 
 ---
 
