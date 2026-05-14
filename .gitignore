@@ -1,0 +1,24 @@
+# platformio
+.pio/
+.vscode/
+
+# build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# credentials, if ever split into a header
+secrets.h
+credentials.h
+
+# macOS
+.DS_Store
+
+# kicad
+*.kicad_prl
+*-backups/
+fp-info-cache
+*.bak
+*.kicad_sch-bak
+*.kicad_pro-bak
