@@ -12,7 +12,6 @@ First, there were some typos in the BOM, so I fixed them. Then it suggested repl
 platformio.ini" file with the libraries and settings needed to upload to the ESP32. The last suggestion was to add a note about TLS in the Firmware README.md.
 
 I also updated the root README.md to include info about the enclosure. And that was it. This was a very short session, maybe the shortest one yet.
-![Screenshot_2026-05-19_14-45-17](https://stasis.hackclub-assets.com/images/1779182171452-bajbl5.png)
 
 ![image](https://stasis.hackclub-assets.com/images/1779182171452-bajbl5.png)
 
@@ -31,17 +30,6 @@ After the battery box, I needed something to connect the main electronics box to
 Then I made the pole, 2 meters tall with a small rectangular hole in it for the battery wires.
 
 I assembled everything, but I couldn't find the O-rings I needed, so I had to make gaskets instead. Then I finished the assembly and ended the session.
-![Screenshot_2026-05-18_19-21-49](https://stasis.hackclub-assets.com/images/1779120502672-2plsm1.png)
-
-![Screenshot_2026-05-17_21-18-06](https://stasis.hackclub-assets.com/images/1779120516626-mubhza.png)
-
-![Screenshot_2026-05-17_21-18-56](https://stasis.hackclub-assets.com/images/1779120523397-kyxa07.png)
-
-![Screenshot_2026-05-18_19-23-13](https://stasis.hackclub-assets.com/images/1779120544336-krjdff.png)
-
-![Screenshot_2026-05-18_19-24-57](https://stasis.hackclub-assets.com/images/1779120558134-q7455p.png)
-
-![Uploading Screenshot_2026-05-18_19-25-16.png...](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 ![image](https://stasis.hackclub-assets.com/images/1779120502672-2plsm1.png)
 ![image](https://stasis.hackclub-assets.com/images/1779120516626-mubhza.png)
@@ -62,13 +50,6 @@ I drilled some holes in the divider wall to pass wires between the ESP and senso
 To mount the sensors right in the airflow from the ventilation holes without blocking it, I decided to make rails. So that's what I did, I built some rails for the sensors and for the perfboard housing the ESP32 and power circuits.
 And that was it. I didn’t do much today, just a 2-hour session, but I'm thinking of finishing the CAD and submitting the project tomorrow.
 
-![Screenshot_2026-05-16_22-52-42](https://stasis.hackclub-assets.com/images/1778952473322-10arh0.png)
-
-![Screenshot_2026-05-16_22-53-35](https://stasis.hackclub-assets.com/images/1778952487585-weigwn.png)
-
-![Screenshot_2026-05-16_22-54-49](https://stasis.hackclub-assets.com/images/1778952503310-qs72xo.png)
-
-![Screenshot_2026-05-16_22-54-36](https://stasis.hackclub-assets.com/images/1778952511121-9sxynk.png)
 
 ![image](https://stasis.hackclub-assets.com/images/1778952473322-10arh0.png)
 ![image](https://stasis.hackclub-assets.com/images/1778952487585-weigwn.png)
@@ -90,11 +71,6 @@ After adding everything to the cart, what did I see? The newly added ESP and the
 Then came the ESP. I looked at other options with an IPEX port, but most were bare chips. I've had a lot of trouble with bare chips before cause I face uploading errors with them every time. Finally, I found an ESP32-WROOM-32UE development board, which is mostly similar to the original choice.
 
 I had other tasks for today, but this session was way too frustrating. I had to end the session.
-![Screenshot_2026-05-12_12-32-51](https://stasis.hackclub-assets.com/images/1778604497893-xooh6b.png)
-
-![Screenshot_2026-05-12_12-33-02](https://stasis.hackclub-assets.com/images/1778604512352-2s5k6h.png)
-
-![Screenshot_2026-05-12_12-33-14](https://stasis.hackclub-assets.com/images/1778604519248-k7ata9.png)
 
 ![image](https://stasis.hackclub-assets.com/images/1778604497893-xooh6b.png)
 ![image](https://stasis.hackclub-assets.com/images/1778604512352-2s5k6h.png)
@@ -128,9 +104,6 @@ At that point, the ElectronicsComp site got very slow. I don’t know if it was 
 
 
 
-![Screenshot_2026-05-10_16-06-39](https://stasis.hackclub-assets.com/images/1778409473796-4akthu.png)
-
-![Screenshot_2026-05-10_16-06-49](https://stasis.hackclub-assets.com/images/1778409476026-viae6k.png)
 
 ![image](https://stasis.hackclub-assets.com/images/1778409473796-4akthu.png)
 ![image](https://stasis.hackclub-assets.com/images/1778409476026-viae6k.png)
