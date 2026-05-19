@@ -2,7 +2,6 @@
  
 MeteoNode is a small solar-powered ESP32 weather node. The idea is to pull regional forecast data from Open-Meteo and adjust it using pressure, humidity, and temperature trends measured locally by the node itself. Instead of sending data somewhere else to process, the ESP32 handles everything on-device using a lightweight Bayesian-style system.
  
----
  
 # Why
  
@@ -20,7 +19,6 @@ Humidity rising
  
 It's not meant to replace anything. More of an experiment.
  
----
  
 # How I built it
  
@@ -40,7 +38,6 @@ The soft-latch circuit was probably the most interesting part. The node runs on 
  
 One more thing the direct battery connection created was an ADC reference problem. Since the ESP32 runs off the cell directly there is no stable 3.3V reference, so the ADC reading drifts with battery voltage. The firmware handles this by reading the ESP32's internal 1.1V bandgap reference each wake cycle and using it to calculate the actual VREF before reading the battery.
  
----
  
 # Enclosure
  
@@ -56,7 +53,6 @@ Since I couldn't find the O-rings I needed, I ended up making gaskets instead an
  
 CAD files are in `Hardware/Cad files/` as STEP files. There's a full assembly plus individual parts: battery box, main electronics box, pole mount bracket, and pole.
  
----
  
 # Hardware
  
@@ -81,13 +77,11 @@ CAD files are in `Hardware/Cad files/` as STEP files. There's a full assembly pl
  
 Everything is from ElectronicsComp.
  
----
  
 # Block diagram
  
 ![block diagram](block_diagram.svg)
  
----
  
 # Firmware
  
