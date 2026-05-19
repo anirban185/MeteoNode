@@ -186,7 +186,7 @@ ForecastData fetchForecast() {
   }
 
   WiFiClient* stream = http.getStreamPtr();
-  DynamicJsonDocument doc(8192);
+  JsonDocument doc;
   DeserializationError err = deserializeJson(doc, *stream);
   http.end();
 
