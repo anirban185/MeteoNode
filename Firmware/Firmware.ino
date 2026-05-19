@@ -95,8 +95,7 @@ void cutPower() {
   Serial.flush();
   delay(100);
   digitalWrite(LATCH_HOLD_PIN, LOW);
-  esp_sleep_enable_timer_wakeup(6ULL * 3600ULL * 1000000ULL);
-  esp_deep_sleep_start();
+  while (true) { delay(1000); }
 }
 
 SensorData readSensors() {
