@@ -88,7 +88,7 @@ Everything is from ElectronicsComp.
 
 ![block diagram](wiring_diagram.png)
 
-Open the image in a new tab to view it in full resolution.
+Open the image in a new tab and zoom to view it in full resolution.
 
 # Firmware
  
