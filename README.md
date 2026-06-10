@@ -88,6 +88,8 @@ Everything is from ElectronicsComp.
 
 ![block diagram](wiring_diagram.png)
 
+Open the image in a new tab to view it in full resolution.
+
 # Firmware
  
 Each wake cycle the ESP32 reads the sensors, fetches a forecast from Open-Meteo, adjusts the rain probability using local trends from RTC memory, and goes back to sleep. RTC memory keeps the last 4 readings alive across deep sleep so the trend analysis always has something to work with.
