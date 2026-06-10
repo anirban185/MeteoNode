@@ -278,7 +278,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -286,7 +286,7 @@
   },
   "sheets": [
     [
-      "6fd695b1-a812-4852-bda0-b9a21182a3a0",
+      "a1545928-1195-40b9-b3c4-78f837012afb",
       ""
     ]
   ],

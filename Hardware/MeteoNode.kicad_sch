@@ -1884,7 +1884,7 @@
     (property "Reference" "R1" (id 0) (at 99.06 121.9199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at 99.06 124.4599 0)
+    (property "Value" "100kΩ" (id 1) (at 99.06 124.4599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 94.742 123.19 90)
@@ -1933,7 +1933,7 @@
     (property "Reference" "R2" (id 0) (at 99.06 132.0799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R" (id 1) (at 99.06 134.6199 0)
+    (property "Value" "100kΩ" (id 1) (at 99.06 134.6199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 94.742 133.35 90)
@@ -2239,10 +2239,10 @@
       (reference "Q2") (unit 1) (value "2N7000") (footprint "")
     )
     (path "/3e50bec7-8765-4cb4-8a85-464ed97b18bf"
-      (reference "R1") (unit 1) (value "R") (footprint "")
+      (reference "R1") (unit 1) (value "100kΩ") (footprint "")
     )
     (path "/5a7b5f42-23ed-440e-9fd0-33baa29da793"
-      (reference "R2") (unit 1) (value "R") (footprint "")
+      (reference "R2") (unit 1) (value "100kΩ") (footprint "")
     )
     (path "/f89b44fd-1fe0-4315-acaa-6aedbac4e8d4"
       (reference "R3") (unit 1) (value "100kΩ") (footprint "")
