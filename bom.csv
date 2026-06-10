@@ -12,7 +12,7 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "MT76813DBI WiFi Antenna","Antenna for the ESP",1,0.60,"https://www.electronicscomp.com/mt76813dbi-esp8266-serial-wifi-wireless-gain-antenna?search=wifi%20antenna","ElectronicsComp"
 "100nf(0.1uf) Ceramic Capacitor","To decouple High-frequency RF noise",5,0.05,"https://www.electronicscomp.com/0.1uf-104-ceramic-capacitor?search=capacitor%200.1uf","ElectronicsComp"
 "1000uF 10V Electrolytic Capacitor","To stabilize voltage in wifi current spike",2,0.25,"https://www.electronicscomp.com/1000uf-10v-electrolytic-capacitor?search=capacitor%201000uf","ElectronicsComp"
-"ESP32-DevKitC ESP32-WROOM-32UE Development board","The main MCU",1,7.40,"https://www.electronicscomp.com/espressif-esp32-devkitc-esp32-wroom-32ue-development-board","ElectronicsComp"
+"ESP32-DevKitC ESP32-WROOM-32UE Development board","The main MCU",1,7.25,"https://www.amazon.in/ESP32-DevKitC-32UE-ESP32-Devkit-Board-4MB/dp/B0CKPPQYCB/","Amazon.in"
 "Huaxing 32700 6000mAh Solar Grade LiFePO4 Battery","High-capacity 3.2V power storage",1,2.50,"https://www.electronicscomp.com/hx-ifr32700-32v-6000mah-1c-lifepo4-battery-solar-grade?search=LiFePO4&page=2","ElectronicsComp"
 "TP5000 Charge Module","LiFePO4 Buck Charger",1,1.00,"https://www.electronicscomp.com/tp5000-3.6v-4.2v-1a-lithiumbattery-charger-module?search=TP5000%20","ElectronicsComp"
 "1N5819 Schottky Diode","Reverse-Current Protection",5,0.30,"https://www.electronicscomp.com/1n5419-schottky-barrier-diode?search=1N5819","ElectronicsComp"
