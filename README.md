@@ -53,8 +53,8 @@ Since I couldn't find the O-rings I needed, I ended up making gaskets instead an
  
 CAD files are in `Hardware/Cad files/` as STEP files. There's a full assembly plus individual parts: battery box, main electronics box, pole mount bracket, and pole.
 
-OnShape Link: https://cad.onshape.com/documents/560823f845b4e1dbdcd98f5f/w/6feb564b6c844b09aff696f7/e/17a8fd3166888350d1755295?renderMode=0&uiState=6a299f237b6ae60a7f1f5af2
- 
+OnShape Link: https://cad.onshape.com/documents/560823f845b4e1dbdcd98f5f/w/6feb564b6c844b09aff696f7/e/17a8fd3166888350d1755295
+
 # Hardware
  
 | Component | Purpose |
