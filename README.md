@@ -52,7 +52,8 @@ For mounting I took inspiration from motor shaft couplers. I made a pipe-shaped 
 Since I couldn't find the O-rings I needed, I ended up making gaskets instead and finished the assembly.
  
 CAD files are in `Hardware/Cad files/` as STEP files. There's a full assembly plus individual parts: battery box, main electronics box, pole mount bracket, and pole.
- 
+
+OnShape Link: https://cad.onshape.com/documents/560823f845b4e1dbdcd98f5f/w/6feb564b6c844b09aff696f7/e/17a8fd3166888350d1755295?renderMode=0&uiState=6a299f237b6ae60a7f1f5af2
  
 # Hardware
  
@@ -82,7 +83,11 @@ Everything is from ElectronicsComp.
  
 ![block diagram](block_diagram.svg)
  
- 
+
+# Wiring diagram
+
+![block diagram](wiring_diagram.png)
+
 # Firmware
  
 Each wake cycle the ESP32 reads the sensors, fetches a forecast from Open-Meteo, adjusts the rain probability using local trends from RTC memory, and goes back to sleep. RTC memory keeps the last 4 readings alive across deep sleep so the trend analysis always has something to work with.
