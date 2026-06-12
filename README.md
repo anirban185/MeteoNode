@@ -55,6 +55,10 @@ CAD files are in `Hardware/Cad files/` as STEP files. There's a full assembly pl
 
 OnShape Link: https://cad.onshape.com/documents/560823f845b4e1dbdcd98f5f/w/6feb564b6c844b09aff696f7/e/17a8fd3166888350d1755295
 
+![cad Screenshot](cad_screenshot.png)
+![cad_screenshot(1)](cad_screenshot(1).png)
+![cad screenshot(2)](cad_screenshot(2).png)
+
 # Hardware
  
 | Component | Purpose |
